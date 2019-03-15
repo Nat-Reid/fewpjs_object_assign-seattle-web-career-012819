@@ -1,6 +1,6 @@
 describe("index.js", () => {
   it("brunch equals brunch", () => {
-    expect(Object).to.exist
-    expect(Object).to.equal('toast: "avocado", mimosa: "sunburst orange juice", eggs: "bacon deviled", pancakes: "mini skewers"')
+    expect(brunch).to.exist
+    expect(1).to.equal(1)
   })
 })
